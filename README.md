@@ -1,9 +1,9 @@
-ThreadPool
+**ThreadPool**
 ==========
 
-A simple C++11 Thread Pool implementation.
+基于C++11实现的双模式线程池项目
 
-user book：
+使用举例：
 ```c++
 // create thread pool with 4 worker threads
 ThreadPool pool(4);
